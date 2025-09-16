@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-scripty
+module github.com/xdBronch/tree-sitter-scripty
 
 go 1.22
 

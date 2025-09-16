@@ -1,6 +1,6 @@
 /**
  * @file scripty
- * @author a
+ * @author xdBronch
  * @license MIT
  */
 

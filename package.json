@@ -2,10 +2,10 @@
   "name": "tree-sitter-scripty",
   "version": "0.1.0",
   "description": "scripty",
-  "repository": "https://github.com/tree-sitter/tree-sitter-scripty",
+  "repository": "https://github.com/xdBronch/tree-sitter-scripty",
   "license": "MIT",
   "author": {
-    "name": "a"
+    "name": "xdBronch"
   },
   "main": "bindings/node",
   "types": "bindings/node",

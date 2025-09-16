@@ -22,11 +22,11 @@
     "description": "scripty",
     "authors": [
       {
-        "name": "a"
+        "name": "xdBronch"
       }
     ],
     "links": {
-      "repository": "https://github.com/tree-sitter/tree-sitter-scripty"
+      "repository": "https://github.com/xdBronch/tree-sitter-scripty"
     }
   },
   "bindings": {
